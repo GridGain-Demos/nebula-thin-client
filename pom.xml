@@ -20,11 +20,11 @@
         </repository>
     </repositories>
 
-    <dependencies>
+<dependencies>
         <dependency>
             <groupId>org.gridgain</groupId>
             <artifactId>ignite-core</artifactId>
-            <version>8.9.7</version>
+            <version>8.9.12</version>
         </dependency>
 
         <dependency>
