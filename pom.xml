@@ -20,7 +20,7 @@
         </repository>
     </repositories>
 
-<dependencies>
+    <dependencies>
         <dependency>
             <groupId>org.gridgain</groupId>
             <artifactId>ignite-core</artifactId>
